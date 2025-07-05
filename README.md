@@ -8,6 +8,10 @@
 
 Сейчас решил изучить ИИ, и как его создавать самостоятельно.
 
+#Если есть вопросы, можете задавать mgebov@mail.ru
+
+Спасибо за внимание!✨
+
 <!--
 **Kandwel/Kandwel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
